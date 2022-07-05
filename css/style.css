@@ -280,3 +280,9 @@ body {
     margin-right: 2rem;
     background: white;
 }
+
+
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
