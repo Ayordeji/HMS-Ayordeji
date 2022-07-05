@@ -137,7 +137,7 @@ https://codegiyu.github.io/hms-giyu/
 Click on `https://github.com/kodecampteam/kodecamp-hms-frontend`
 After then click on `ACTIONS` after which you click on `pages build and deployment`.
 
-Select the last deploymentlink to access the website.
+Select the last deployment link to access the website.
 
 
 ## Lessons Learned
